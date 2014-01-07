@@ -17,8 +17,7 @@ mod 'puppetlabs/mysql',
     :git => 'git://github.com/puppetlabs/puppetlabs-mysql',
     :ref => 'origin/0.x'
 mod 'puppetlabs/apache',
-    :git => 'git://github.com/puppetlabs/puppetlabs-apache',
-    :ref => 'origin/0.x'
+    :git => 'git://github.com/puppetlabs/puppetlabs-apache'
 mod 'puppetlabs/git', :git => 'git://github.com/puppetlabs/puppetlabs-git'
 mod 'puppetlabs/vcsrepo', :git => 'git://github.com/puppetlabs/puppetlabs-vcsrepo'
 mod 'saz/memcached', :git => 'git://github.com/saz/puppet-memcached'
